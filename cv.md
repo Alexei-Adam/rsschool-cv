@@ -38,4 +38,18 @@ if(r>0&&g>0&&b>0){
   return s;
 }
 ```
+### Expirience and education
+---
+* In the process of studying [BSUIR][3]
+* In the process of studying [learn.javascript.ru][2]
+
+### English language
+---
+
+English level is A2 or Elementary.
+
+
+[1]: https://vk.com/id441508554
+[2]: https://learn.javascript.ru
+[3]: https://www.bsuir.by/
 

@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+display: block;
+background-color: #E7F3FF;
+    width: 1100;
+    height: 100%;
+}
+
+header{
+ display: block;
+ height: 450px;
+ background-color:#C8D2E1;
+ wigth: 100%;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+}
+
+.frontphoto{
+    background-color:#BEC8D2;
+   
+}
+
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    font-family: sans-serif;
+    background-color: #BDC0C5;
+}
+
+.photo{
+    height: 400px;
+    padding-top: 25px;
+    padding-bottom : 25px;
+}
+
+.logoVK{
+    transition: 0.5s;
+    height: 35px;
+    width: 35px;   
+    background-color:#BDC0C5;
+}
+
+.logoVK:hover{
+    transform: scale(1.2);
+}
+
+.logoInst{
+    padding-left: 35px;
+    transition: 0.5s;
+    height: 35px;
+    background-color:#BDC0C5;
+}
+
+.logoInst:hover{
+    transform: scale(1.2);
+}
+
+.mainBody{
+    margin: 0 auto;
+    width: 1000px;
+    padding: 10px;
+}
+
+.Summary{
+    margin: 50px;
+    font-size: 20px;
+}
+
+.info{
+    border: 4px black;
+    padding: 5px;
+}
+
+

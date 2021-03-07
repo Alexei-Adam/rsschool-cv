@@ -7,7 +7,8 @@
   * __VK:__ [my profile][1]
   * __Mail:__ adamich@gmail.com
   * __Discord:__ Alexei-Adam
-  ### Summary
+ 
+### Summary
 ---
 
 I started to study the basics of C and C ++ at university, 
